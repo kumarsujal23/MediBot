@@ -1,0 +1,14 @@
+# Virtual Environment
+sujalheromedi/
+
+# Secrets file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / Editor folders
+.vscode/
+.idea/
+medicalbot.py
